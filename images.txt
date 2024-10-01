@@ -2,5 +2,4 @@ makedie/proxmox_ve
 sturrent/debian-ssh
 #支持指定架构
 --platform=linux/arm64 alpine
-ghcr.io/cmspam/incus-docker:nightly@sha256:15db6f82dfbcb962e7aaa098bc30962407d7af3d3e0a5ac96ce0b010f1ac1195Copied
-ghcr.io/cmspam/incus-docker:nightly@sha256:4eacced81dc452dc3e304fc6d2aec3ff1e6971cb54b5db6ef09b97fddeba4e05
+cmspam/incus-docker
