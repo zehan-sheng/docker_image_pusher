@@ -1,6 +1,4 @@
-makedie/proxmox_ve
+yuanter/x-ui
 sturrent/debian-ssh
 #支持指定架构
 --platform=linux/arm64 alpine
-cmspam/incus-docker
-jiangjuhong/dujiaoka
