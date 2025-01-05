@@ -1,4 +1,5 @@
 yuanter/x-ui
 sturrent/debian-ssh
+niliaerith/akile_monitor_client
 #支持指定架构
 --platform=linux/arm64 alpine
